@@ -1,4 +1,4 @@
-# Hi there 👋, welcome to my profile!
+# Hi there 👋 welcome to my profile!
 ### :computer: I’m currently working on something cool with [SHC](https://github.com/junglert/shc) and [Docker](https://docker.com/)
 <!--
 **junglert/junglert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
