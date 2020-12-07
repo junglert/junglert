@@ -1,5 +1,6 @@
 # Hi there 👋 Welcome to my profile!
 ### :computer: I’m currently working on something cool with [SHC](https://github.com/junglert/shc) and [Docker](https://docker.com/)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=junglert&label=Profile%20views&color=0e9bb4&style=flat" alt="junglert" /></p>
 <!--
 **junglert/junglert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
