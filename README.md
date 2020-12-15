@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junglert&label=Profile%20views&color=0e9bb4&style=flat" alt="junglert" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junglert&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junglert&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **junglert/junglert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
