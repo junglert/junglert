@@ -1,9 +1,13 @@
-# Hello there! 👋 Welcome to my profile! <img src="https://komarev.com/ghpvc/?username=junglert&label=Profile%20views&color=0e9bb4&style=flat" alt="junglert" /></p>
+# Hello there! 👋 Welcome to my profile! <img src="https://komarev.com/ghpvc/?username=junglert&label=Profile%20views&color=0e9bb4&style=flat" alt="junglert" />
 
-### :computer: I’m currently working on a cool project: [shc](https://github.com/ServerHealthCheck/shc) 
+### :computer: I’m currently working on a cool project: [shc](https://github.com/ServerHealthCheck/shc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junglert&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/ServerHealthCheck/shc"><img src="https://raw.githubusercontent.com/ServerHealthCheck/shc/master/media/shc_logo.png" width="150" height="150">
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=junglert&layout=compact&theme=slateorange)](https://github.com/stats-organization/github-stats-extended)
+
+<a href="https://github.com/ServerHealthCheck/shc">
+  <img src="https://raw.githubusercontent.com/ServerHealthCheck/shc/master/media/shc_logo.png" width="150" height="150">
+</a>
+
 <!--
 **junglert/junglert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
